@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/okhuaroboosayuki/positivus-landing-page.git
+git clone https://github.com/HARSH-2556/Digital-marketing-agency
 ```
 
 2. Navigate into the project directory:
@@ -48,6 +48,3 @@ cd positivus-landing-page
 
 This project is licensed under the GNU General Public License. See the [LICENSE File](/LICENSE) for details.
 
-## Figma Design
-
-View the design mockups and prototypes on Figma: [Link](<https://www.figma.com/design/2fxc7axu1RfGZ6NbaPmXeW/Positivus-Landing-Page-Design-(Community)>)
